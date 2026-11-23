@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ujjwal-weds-vandana//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ujjwal ♡ Vandana
+BEGIN:VEVENT
+UID:akhand-2026@ujjwal-weds-vandana
+DTSTAMP:20261124T000000Z
+DTSTART:20261127T023000Z
+DTEND:20261127T053000Z
+SUMMARY:अखण्ड रामायण पाठ प्रारम्भ (Akhand Ramayan Path)
+LOCATION:निज निवास, चनैनी, करछना, प्रयागराज
+DESCRIPTION:https://rj0011.github.io/ujjwal-weds-vandana/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:purnahuti-2026@ujjwal-weds-vandana
+DTSTAMP:20261124T000000Z
+DTSTART:20261128T023000Z
+DTEND:20261128T053000Z
+SUMMARY:पूर्णाहूति (Purnahuti)
+LOCATION:निज निवास, चनैनी, करछना, प्रयागराज
+DESCRIPTION:https://rj0011.github.io/ujjwal-weds-vandana/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bhandara-2026@ujjwal-weds-vandana
+DTSTAMP:20261124T000000Z
+DTSTART:20261129T023000Z
+DTEND:20261129T073000Z
+SUMMARY:ब्रतबन्ध एवं भण्डारा (Bratbandh & Bhandara)
+LOCATION:निज निवास, चनैनी, करछना, प्रयागराज
+DESCRIPTION:https://rj0011.github.io/ujjwal-weds-vandana/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:baraat-2026@ujjwal-weds-vandana
+DTSTAMP:20261124T000000Z
+DTSTART:20261202T103000Z
+DTEND:20261202T163000Z
+SUMMARY:बारात प्रस्थान (Baraat) – Ujjwal ♡ Vandana
+LOCATION:चनैनी, करछना से धनावल, सोनवर्षा, माण्डा, प्रयागराज
+DESCRIPTION:https://rj0011.github.io/ujjwal-weds-vandana/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vadhu-2026@ujjwal-weds-vandana
+DTSTAMP:20261124T000000Z
+DTSTART:20261203T043000Z
+DTEND:20261203T073000Z
+SUMMARY:वधू आगमन (Vadhu Aagman)
+LOCATION:निज निवास, चनैनी, करछना, प्रयागराज
+DESCRIPTION:https://rj0011.github.io/ujjwal-weds-vandana/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
